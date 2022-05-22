@@ -1,0 +1,3 @@
+﻿y::
+Send, z
+return
