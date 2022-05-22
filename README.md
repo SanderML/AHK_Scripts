@@ -13,7 +13,7 @@ mutes volume with "Alt + m"
 fixes double back press on mouse button
 
 
---
+---
 
 ## CapsLockToEsc.reg.txt
 
