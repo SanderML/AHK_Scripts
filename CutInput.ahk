@@ -6,7 +6,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
 
-#u::
+#x::
 Send, ^a
-Send, {Delete}
+Send, ^x
+;Send, {Delete}
 return

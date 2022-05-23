@@ -13,9 +13,9 @@ louder/quieter with "shift + mouse wheel"
 
 fixes double back press on mouse button
 
-## ClearInput.ahk
+## CutInput.ahk
 
-selects and clears currently focused text input with "Windows + u"
+selects and cuts currently focused text input cell with "Windows + x"
 
 ---
 
