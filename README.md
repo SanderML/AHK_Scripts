@@ -16,6 +16,11 @@ fixes double back press on mouse button
 ## CutInput.ahk
 
 selects and cuts currently focused text input cell with "Windows + x"
+deactivates "Windows + c" microsoft nonsense
+
+## Zoom.ahk
+
+adds zoom +- with mouse only -> holding left click while scrolling
 
 ---
 
