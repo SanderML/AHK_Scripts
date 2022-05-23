@@ -14,3 +14,11 @@ return
 +wheeldown::
 SoundSet, -5
 return
+
+#If GetKeyState("RButton", "P")
+wheelup::
+Soundset, +5
+return
+wheeldown::
+SoundSet, -5
+return

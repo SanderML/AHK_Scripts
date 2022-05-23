@@ -8,6 +8,7 @@ lets you use "Alt" instead of "Alt GR" for: {}, [], \
 
 mutes volume with "Alt + m"
 louder/quieter with "shift + mouse wheel"
+louder/quieter with holding right click while scrolling
 
 ## BackButton_Mouse.ahk
 
