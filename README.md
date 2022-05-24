@@ -23,6 +23,10 @@ deactivates "Windows + c" microsoft nonsense
 
 adds zoom +- with mouse only -> holding left click while scrolling
 
+## LaunchApplications.ahk
+
+launches several commonly used apps with a shortcut; starting with }
+
 ---
 
 ## CapsLockToEsc.reg.txt
