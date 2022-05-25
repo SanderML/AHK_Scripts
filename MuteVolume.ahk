@@ -8,19 +8,20 @@ SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 return
 
 +WheelUp::
-    SoundSet, +5
+	Send, {Volume_up 2} 
 return
 
 +WheelDown::
-    SoundSet, -5
+	Send, {Volume_down 2} 
 return
 
 #If GetKeyState("RButton", "P")
 {
 WheelUp::
-    Soundset, +5
+	Send, {Volume_up 2} 
 return
 WheelDown::
-    Soundset, -5
+	Send, {Volume_down 2} 
 return
 }
+
